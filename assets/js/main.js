@@ -111,4 +111,4 @@ const swiper = new Swiper(".mySwiper", {
 });
 
 
-// card
+// card js
